@@ -1,0 +1,61 @@
+.search{
+    margin: 10px;
+    float: left;
+    z-index: 10;
+}
+.select{
+    padding-top: 10px;
+}
+.select Button{
+    margin-left: 15px; 
+}
+.table hr{
+    clear: both;
+}
+.search-text{
+    margin: 0 0 0 5px
+}
+.table{
+    margin:20px auto;
+    min-width: 500px;
+    max-width: 1540px;
+}
+.el-tabs__content
+{
+    overflow: initial
+}
+
+.md-container{
+    max-width: 1400px;
+    margin: 15px auto;
+    margin-bottom: 0px;
+    padding: 9px;
+    padding-bottom: 115px;
+}
+.md-tabs{
+    background-color: #fff
+}
+#root{
+    min-height: 100%
+}
+.el-select{
+    margin-left: 5px;
+    width: 150px;
+}
+/* 标题*/
+.table-title{
+    margin: 15px;
+    text-align: center;
+}
+.table-title h2{
+    letter-spacing: 10px;
+    margin-bottom: 10px;
+    font-weight: 300;
+}
+.table-des{
+    letter-spacing: 2px;
+}
+.des-center{
+    margin: 0 300px;
+}
+

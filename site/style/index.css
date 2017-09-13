@@ -1,0 +1,46 @@
+.nav__active{
+    color: red
+}
+.menu .Item{
+    left: 144px;
+    padding: 0px 49px;
+    font-size: 20px;
+}
+.title{
+    background-color:  rgb(31, 45, 61);
+    padding: 10px;
+    padding-top: 0px;
+    height: 94px;
+    line-height: 94px;
+    letter-spacing: 10px;
+    color: #ffffff;
+    padding-left: 270px;
+}
+.title a{
+    color: #fff;
+    z-index: 2;
+}
+.bottom{
+    background-color: rgb(43, 71, 99);
+    height:94px;
+    position: absolute;
+    bottom:0;
+    width: 100%;
+}
+body{
+    background-color: #EFF2F7
+}
+.md-body{
+    min-height: 100%;position: relative
+}
+.md-panel{
+    border:1px solid #D3DCE6;
+    background-color: #fff;
+    padding: 9px
+}
+.print{
+    float:right;
+}
+.print Button{
+    height:35px;
+}
